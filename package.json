@@ -1,9 +1,9 @@
 {
   "name": "siliconMilkroundabout",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "scrape.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start_scrape": "nodemon scrape.js"
   },
   "license": "MIT",
   "dependencies": {
